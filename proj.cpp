@@ -2,5 +2,6 @@
 
 int main() {
   std::cout << "git thing\n";
-  return 5;
+  std::cout << "another git thing\n";
+  return 0;
 }
