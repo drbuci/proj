@@ -1,3 +1,7 @@
+.gitignore
+a.out
+*.swp
+
 # Prerequisites
 *.d
 
